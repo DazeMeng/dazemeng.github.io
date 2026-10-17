@@ -48,7 +48,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "也无风雨也无晴",
 
 	// 站点 URL
-	site_url: "https://blog.18865004.workers.dev",
+	site_url: "https://dazemeng.github.io",
 
 	// 站点描述
 	description: "归去的个人小站，也无风雨也无晴。",
